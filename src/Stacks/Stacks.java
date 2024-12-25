@@ -1,7 +1,5 @@
 package Stacks;
 
-import LinkedList.Persona;
-
 import java.util.Stack;
 
 public class Stacks {
